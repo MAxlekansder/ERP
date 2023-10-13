@@ -1,0 +1,40 @@
+//ERP
+        //use database mang for handling data in the product -> will need test files for inserting
+
+            //Users
+                //User
+                    //Name
+                    //Department
+                //Password
+
+            //Costumer
+                //Name
+                //CustomerNumber
+                //Place
+                //Land
+
+
+            //Products
+                //Category
+                //Price
+                //stock
+                    //Warehousing
+
+            //Facilities
+                //Warehousing -> connecting to product
+
+
+            //Order
+                //Ordernumber
+                //CostumerOrderNumber
+                //External information
+                //price calculation
+                //stock
+                //Billing information
+                //deliviery information
+
+            //Transport
+
+            //Mail
+
+            //Invoicing
